@@ -7,7 +7,7 @@ I'm constantly learning and working on projects that challenge me to grow as a d
 🎓 Bachelor of Computer Applications (BCA)
 ☁️ AWS Certified
 💼 Open to collaboration and new opportunities
-📫 How to reach me: your-email@example.com
+📫 How to reach me: ldhanya011@gmail.com
 
 🛠️ Tech Stack
 Languages & Databases:
