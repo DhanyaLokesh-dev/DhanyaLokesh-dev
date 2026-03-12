@@ -31,8 +31,6 @@ https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-stud
 
 ## 🚀 Current Projects
 
-## 🚀 Current Projects
-
 ### 🔖 Smart Bookmark App
 - **Description**: A smart bookmark manager to save, organize and search your bookmarks efficiently
 - **Tech Stack**: TypeScript
