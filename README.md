@@ -31,6 +31,16 @@ https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-stud
 
 ## 🚀 Current Projects
 
+## 🚀 Current Projects
+
+### 🔖 Smart Bookmark App
+- **Description**: A smart bookmark manager to save, organize and search your bookmarks efficiently
+- **Tech Stack**: TypeScript
+- **Features**: Save and organize bookmarks, smart search, clean UI
+- **Status**: 🟢 Complete
+- **Live Demo**: 🌐 [View Live App](https://smart-bookmark-app-sigma-olive.vercel.app/)
+- **Repo**: [View Project](https://github.com/DhanyaLokesh-dev/smart-bookmark-app)
+
 ### 📌 AWS Serverless Data Pipeline
 - **Description**: Automated data processing pipeline using AWS Lambda, S3, and DynamoDB with serverless architecture
 - **Tech Stack**: Python, AWS Lambda, S3, DynamoDB, CloudWatch, IAM
@@ -38,7 +48,12 @@ https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-stud
 - **Status**: 🟢 Complete
 - **Repo**: [View Project](https://github.com/DhanyaLokesh-dev/aws-serverless-pipeline)
 
----
+### 🔍 Nextdev Vetting Pipeline
+- **Description**: Engineer vetting pipeline that screens candidates through LinkedIn Analysis, Technical Screening, and AI Interviews
+- **Tech Stack**: JavaScript, Node.js, Jest
+- **Features**: Candidate registration with deduplication, 3-stage vetting progression, weighted scoring, role matching, leaderboards
+- **Status**: 🟢 Complete
+- **Repo**: [View Project](https://github.com/DhanyaLokesh-dev/nextdev-vetting-pipeline)
 
 ## 📊 GitHub Stats
 
