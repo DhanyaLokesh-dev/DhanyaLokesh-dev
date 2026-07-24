@@ -19,7 +19,7 @@ I'm continuously learning and building projects to improve my skills as a develo
 ### Languages & Databases
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ### Cloud & DevOps
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
@@ -32,10 +32,19 @@ I'm continuously learning and building projects to improve my skills as a develo
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
+![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🚀 Current Projects
+
+### 🤖 CloudHire AI
+- **Description**: AI-powered hiring assistant that analyzes resumes, matches candidates to job descriptions, and generates tailored interview questions
+- **Tech Stack**: FastAPI, PostgreSQL, Next.js, TypeScript, Tailwind CSS, Google Gemini API
+- **Features**: Resume analysis with ATS scoring, AI job matching, AI-generated interview questions, JWT auth, recruiter dashboard, admin panel
+- **Status**: 🟢 Complete
+- **Live Demo**: 🌐 [View Live App](https://cloudhire-ai.vercel.app/)
+- **Repo**: [View Project](https://github.com/DhanyaLokesh-dev/cloudhire-ai)
 
 ### 🔖 Smart Bookmark App
 - **Description**: A smart bookmark manager to save, organize and search your bookmarks efficiently
