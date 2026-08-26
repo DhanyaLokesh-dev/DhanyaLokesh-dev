@@ -1,93 +1,87 @@
-# Hi there, I'm Dhanya 👋
+# Hi, I'm Dhanya Lokesh 👋
 
-## 🎓 About Me
-I'm a BCA graduate with a strong interest in cloud computing and software development. 
-As an AWS Certified professional, I enjoy building scalable applications and exploring modern technologies.
+### Python Backend Developer | AWS Cloud | FastAPI | DevOps
 
-I have hands-on experience with AWS, Python, and CI/CD pipelines, and I enjoy creating cloud-based solutions and web applications. 
+BCA graduate and **AWS Certified Solutions Architect – Associate** focused on Python backend development and cloud engineering. I build and deploy practical applications using **Python, FastAPI, PostgreSQL, AWS, Docker, and CI/CD**, with experience taking projects from development to cloud deployment.
 
-I'm continuously learning and building projects to improve my skills as a developer and cloud engineer.
+- 🎓 Bachelor of Computer Applications (BCA)
+- ☁️ AWS Certified Solutions Architect – Associate
+- 💻 Focus: Python Backend Development, Cloud Engineering & APIs
+- 🚀 Building production-oriented projects with AWS and modern DevOps workflows
+- 📍 Bengaluru, India | Open to opportunities and collaboration
 
-🎓 Bachelor of Computer Applications (BCA)
-☁️ AWS Certified
-💼 Open to collaboration and new opportunities
-📫 How to reach me: ldhanya011@gmail.com
+## 🚀 Featured Project — CloudHire AI
 
+**CloudHire AI** is an AI-powered recruitment platform that analyzes resumes, matches candidates against job descriptions, and generates tailored interview questions.
 
-## 🛠️ Tech Stack
+**Engineering highlights:**
+- FastAPI REST backend with JWT authentication and bcrypt password hashing
+- Next.js + TypeScript frontend
+- PostgreSQL database on **Amazon RDS**
+- Backend deployed on **Amazon EC2**
+- Containerized workflow with **Docker**
+- AWS SES integration for transactional email
+- AI workflows powered by Google Gemini API
+- GitHub-based CI/CD workflow and documented AWS deployment
 
-### Languages & Databases
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+🌐 [Live Demo](https://cloudhire-ai.vercel.app/) · 💻 [Source Code](https://github.com/DhanyaLokesh-dev/cloudhire-ai) · 📘 [Professional Case Study (PDF)](https://github.com/DhanyaLokesh-dev/cloudhire-ai/blob/main/docs/CloudHire-AI-Case-Study.pdf)
+
+## 🛠️ Technical Stack
+
+### Backend & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 ### Cloud & DevOps
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Tools & Technologies
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Frontend & Tools
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## 🚀 Current Projects
-
-### 🤖 CloudHire AI
-- **Description**: AI-powered hiring assistant that analyzes resumes, matches candidates to job descriptions, and generates tailored interview questions
-- **Tech Stack**: FastAPI, PostgreSQL, Next.js, TypeScript, Tailwind CSS, Google Gemini API
-- **Features**: Resume analysis with ATS scoring, AI job matching, AI-generated interview questions, JWT auth, recruiter dashboard, admin panel
-- **Status**: 🟢 Complete
-- **Live Demo**: 🌐 [View Live App](https://cloudhire-ai.vercel.app/)
-- **Repo**: [View Project](https://github.com/DhanyaLokesh-dev/cloudhire-ai)
+## 📂 Selected Projects
 
 ### 🔖 Smart Bookmark App
-- **Description**: A smart bookmark manager to save, organize and search your bookmarks efficiently
-- **Tech Stack**: TypeScript
-- **Features**: Save and organize bookmarks, smart search, clean UI
-- **Status**: 🟢 Complete
-- **Live Demo**: 🌐 [View Live App](https://smart-bookmark-app-sigma-olive.vercel.app/)
-- **Repo**: [View Project](https://github.com/DhanyaLokesh-dev/smart-bookmark-app)
+A full-stack bookmark manager for saving and organizing web resources.
 
-### 📌 AWS Serverless Data Pipeline
-- **Description**: Automated data processing pipeline using AWS Lambda, S3, and DynamoDB with serverless architecture
-- **Tech Stack**: Python, AWS Lambda, S3, DynamoDB, CloudWatch, IAM
-- **Features**: Event-driven processing, automatic scaling, metadata storage, comprehensive error handling
-- **Status**: 🟢 Complete
-- **Repo**: [View Project](https://github.com/DhanyaLokesh-dev/aws-serverless-pipeline)
+**Stack:** Next.js, TypeScript, Supabase, Tailwind CSS, Vercel  
+🌐 [Live Demo](https://smart-bookmark-app-sigma-olive.vercel.app/) · [Repository](https://github.com/DhanyaLokesh-dev/smart-bookmark-app)
+
+### ☁️ AWS Serverless Data Pipeline
+Event-driven data-processing pipeline demonstrating serverless AWS architecture.
+
+**Stack:** Python, AWS Lambda, S3, DynamoDB, CloudWatch, IAM  
+[Repository](https://github.com/DhanyaLokesh-dev/aws-serverless-pipeline)
 
 ### 🔍 Nextdev Vetting Pipeline
-- **Description**: Engineer vetting pipeline that screens candidates through LinkedIn Analysis, Technical Screening, and AI Interviews
-- **Tech Stack**: JavaScript, Node.js, Jest
-- **Features**: Candidate registration with deduplication, 3-stage vetting progression, weighted scoring, role matching, leaderboards
-- **Status**: 🟢 Complete
-- **Repo**: [View Project](https://github.com/DhanyaLokesh-dev/nextdev-vetting-pipeline)
+Candidate-screening workflow with staged technical evaluation, scoring, and role matching.
 
-## 📊 GitHub Stats
+**Stack:** JavaScript, Node.js, Jest  
+[Repository](https://github.com/DhanyaLokesh-dev/nextdev-vetting-pipeline)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanyaLokesh-dev&show_icons=true&theme=radical)
+## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyaLokesh-dev&layout=compact&theme=radical)
+![Dhanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanyaLokesh-dev&show_icons=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyaLokesh-dev&layout=compact)
 
-## 🤝 Connect with Me
+## 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanya-l-0aa510354)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1dhanya011@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanya-l-0aa510354)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DhanyaLokesh-dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-<p align="center">
-  ⭐️ From Dhanya Lokesh
-</p>
-```
+*Interested in Python backend, cloud engineering, API development, and production-oriented software projects.*
